@@ -1,3 +1,3 @@
-name="Tony Stark"
-age="51"
-print(name+" "+ age)
+name=input("What is your name?")
+age=str(input("age"))
+print("I am "+name+" "+age)
